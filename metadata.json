@@ -1,0 +1,7 @@
+{
+  "description": "OmniStudio: A multi-modal creative suite powered by Gemini 3 and Veo.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "App"
+}
